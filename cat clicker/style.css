@@ -2,23 +2,26 @@
 .container{
     border: 1px solid black;  
     width: 50%;
-    background: #01DFD7;
-    height: 61.8%
-
+    background: teal;
+    height: 61.8%;
+   display: block;
+   margin: 0 auto;   
 
   }
   section{
     text-align: right;
     width: 38.19%
+    
   }
-  .cat{
+  .cat1, .cat2{
     margin: auto;
     display: flex;
     align-items: flex-end;
-    
+    justify-content: space-evenly;
+    padding:10px;
+    border-bottom: 2px solid grey;
   }
   img{
     width: 61.8%;
     display: center;
-    padding:3px;
   }
