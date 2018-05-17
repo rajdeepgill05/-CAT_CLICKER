@@ -1,0 +1,18 @@
+ontainer{
+    border: 1px solid black;  
+    width: 50%;
+    background: #01DFD7;
+  }
+  section{
+    text-align:center;
+  }
+  .cat{
+    margin: auto;
+    display: flex;
+    border: 1px solid red;
+    justify-content: center;
+  }
+  img{
+    width: 80%
+    display: center
+  }

@@ -1,0 +1,24 @@
+
+.container{
+    border: 1px solid black;  
+    width: 50%;
+    background: #01DFD7;
+    height: 61.8%
+
+
+  }
+  section{
+    text-align: right;
+    width: 38.19%
+  }
+  .cat{
+    margin: auto;
+    display: flex;
+    align-items: flex-end;
+    
+  }
+  img{
+    width: 61.8%;
+    display: center;
+    padding:3px;
+  }
